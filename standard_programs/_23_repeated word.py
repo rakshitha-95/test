@@ -9,5 +9,5 @@ def first_repeting(str1):
             break
 
 
-str1="my name is my name is srilekha"
+str1="my name is my name is rakshitha"
 first_repeting(str1)
